@@ -1,0 +1,6 @@
+[submodule "AIapp"]
+	path = AIapp
+	url = https://github.com/muhammadali07/IOS_App.git
+[submodule "IOS_App"]
+	path = IOS_App
+	url = https://github.com/muhammadali07/IOS_App.git
